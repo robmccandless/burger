@@ -80,7 +80,7 @@ var orm = {
     insertOne: function() {
 
         // make a query string using what we did in workbench as an example
-        // insert into burger (burger_name, devour) values ("zintis", false)
+        // insert into burger (burger_name, devour) values ("pinapple", false)
         //connection.query(theNewQuery, [], function(response){
         //console.log(response)
         //}
